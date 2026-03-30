@@ -77,31 +77,7 @@
 
 ---
 
-## 🚀 One Click Deploy
-
-<p align="center">
-
-  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/KAMRAN-SMD/KAMRAN-MD">
-    <img src="https://img.shields.iobadgee/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  </a>
-
-  <a href="https://dashboard.render.com/web/new">
-    <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-000000?style=for-the-badge&logo=render&logoColor=white"/>
-  </a>
-
-  <a href="https://railway.app/new">
-    <img src="https://img.shields.io/badge/DEPLOY%20TO%20RAILWAY-FF8700?style=for-the-badge&logo=railway&logoColor=white"/>
-  </a>
-
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD">
-    <img src="https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-## ⚠️ Disclaimer
+tDisclaimer## ⚠️ Disclaimer
 
 > This bot is not affiliated with WhatsApp Inc.  
 > Misuse may lead to WhatsApp account ban. Use responsibly.
@@ -111,46 +87,8 @@
 ## 📊 Project Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAMRAN-SMD&show_icons=true&theme=dark&border_color=8A2BE2&title_color=8A2BE2&icon_color=8A2BE2" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TOM-SMD&show_icons=true&theme=dark&border_color=8A2BE2&title_color=8A2BE2&icon_color=8A2BE2" width="420"/>
 </p>
 
 ---
-
-## ❤️ Footer
-
-<p align="center">
-  <b>NO LOVE 💔 NO STRESS ⚡ ONLY CODE 💻</b><br/>
-  Made with ❤️ by <b>TOM MD</b>
-</p>
-
-    steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm install
-    - run: npm start
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-
--------
-
-
+tup-nodd
