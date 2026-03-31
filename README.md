@@ -43,20 +43,6 @@
 | Call Rejecter | ✅ |
 
 
-## 🤖 TOM MD MINI BOTS
-
-<p align="center">
-
-  <a href="https://new-mini-5019a1d4c273.herokuapp.com/">
-    <img src="https://img.shields.io/badge/OPEN%20MINI%20BOT%202-7952B3?style=for-the-badge&logo=heroku&logoColor=white"/>
-  </a>
-
-  <a href="https://mini-bot-e9fbc8e63978.herokuapp.com/">
-    <img src="https://img.shields.io/badge/OPEN%20MINI%20BOT%20BETA-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-</p>
-
 ## 🔗 Get Pair Code (New Session Web)
 
 <p align="center">
