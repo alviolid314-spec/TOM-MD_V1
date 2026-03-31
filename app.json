@@ -169,6 +169,12 @@
       "required": false,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
+
+"CHANNEL_LINK": {
+  "description": "Your WhatsApp channel link",
+  "required": false,
+  "value": "https://whatsapp.com/channel/0029VbBItW060eBXTB93HT1Q"
+}
     
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
