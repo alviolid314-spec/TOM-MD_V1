@@ -64,5 +64,6 @@ module.exports = {
     WELCOME: process.env.WELCOME || "false", // true to get welcome in groups 
     GOODBYE: process.env.GOODBYE || "false", // true to get goodbye in groups 
     ADMIN_ACTION: process.env.ADMIN_ACTION || "false", // true if want see admin activity 
+    CHANNEL_LINK: process.env.CHANNEL_LINK || "https://whatsapp.com/channel/0029VbBItW060eBXTB93HT1Q",
 };
         
